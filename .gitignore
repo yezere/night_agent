@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+apps/*/node_modules/
+
+# Build outputs
+dist/
+apps/web/dist/
+build/
+target/
+
+# Runtime/audit outputs
+.night-agent/
+.night_agent/
+workspace/
+output-audit/
+**/output-audit/
+**/workspace/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Large external/reference projects
+Cairn/
+test/fixtures/JEEWMS/
+
+# Logs and temp files
+*.log
+*.tmp
+.DS_Store
