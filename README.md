@@ -78,4 +78,14 @@ bun run batch \
 
 ## 开源协议
 
-本项目采用 GNU General Public License v3.0 开源协议，详见 [LICENSE](LICENSE)。
+本项目采用 GNU General Public License v3.0 only（GPL-3.0-only）开源协议发布。
+
+- 协议标识：`GPL-3.0-only`
+- 完整协议文本：见 [LICENSE](LICENSE)
+- 版权声明：Copyright (C) 2026 n1ght <night05@qq.com>
+- 使用、复制、修改和再分发本项目代码时，应保留原始版权声明和协议文本。
+- 分发本项目或基于本项目修改后的版本时，应按 GPL-3.0-only 的要求提供相应源代码，并继续使用 GPL-3.0-only 授权。
+- 本项目按“原样”提供，不包含任何明示或默示担保；详见 GPL-3.0-only 中关于无担保和责任限制的条款。
+- 本项目引用的第三方依赖、工具或示例项目仍遵循其各自的许可证和使用条款。
+
+上述免责声明仅用于限定项目使用场景和责任边界，不削减 GPL-3.0-only 授予使用者的权利。
